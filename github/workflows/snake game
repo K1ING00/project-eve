@@ -1,0 +1,8 @@
+funcstion setup() (600, 600);
+createCanvas
+
+}
+
+funcstion draw() {
+background(51) ;
+}
